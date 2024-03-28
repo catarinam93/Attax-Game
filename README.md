@@ -42,6 +42,8 @@ In order to enjoy the game, you will need to follow these steps:
 * The first player will have blue-colored balls, and the second player will have green-colored balls;
 * When selecting your ball, a selection of squares will appear where you can move/expand your ball;
 * The ultimate goal of the game is to make your opponent run out of balls on the board!
+![How to run the code](images/Experimental_results_1.png)
+![Experimental Result](images/Experimental_results_2.png)
 
 
 
