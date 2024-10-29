@@ -1,5 +1,5 @@
 # Attax-Game
-First assignment of the course Elements of Artificial Intelligence and Data Science (1st year, 2nd semester - 21/22)
+First assignment of the course Elements of Artificial Intelligence and Data Science (BSc in Artificial Intelligence and Data Science 1st year, 2nd semester - 21/22)
 
 ## A little context
 ### Goal of the work
